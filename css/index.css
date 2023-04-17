@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color:#F5F4C9;
+}
+.navegacao{
+    background-color: #D21A19;
+    height:70px;
+
+}
+.navegacao_pizzas{
+    background-color: #000;
+    height:40px;
+}
+.barra_menor{
+    background-color: white;
+    border-radius:50px;
+    height:50px;
+    position:relative;
+    top:10px;
+}
+
+.tit_cardapio{
+    background-color: #43A643;
+    font-size:40px;
+    display:inline-block;
+
+}
+
+.container_pizza1{
+    margin-left:10px;
+    background-color:gray;
+    height: 200px;
+    width: 300px;
+}
+.container_pizza2{
+    margin-left:10px;
+    background-color:white;
+    height: 150px;
+    width: 300px;
+}
