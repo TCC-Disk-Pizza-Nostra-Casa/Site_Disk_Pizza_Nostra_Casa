@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@font-face {
+    font-family: pizza;
+    src: url("../font/Pizza.ttf");
+}
+
+:root{  
+    /*vermelhos*/
+    --verm_princ: #D21A19;
+    --verm_fraco: #FF3838;
+    --verm_forte: #850808;
+
+    /*verdes*/
+    --verde_princ: #008526;
+    --verde_fraco: #19D14D;
+}

@@ -1,53 +1,49 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import "config.css";
 
 *{
     font-family: 'Roboto';
     color: black;
+    font-size: 2vw;
     border: 0;
-}
-
-body{
-    background-color: #D21A19;
-}
-
-#nav{
-    position: absolute;
-    width: 100%;
-    background-color: green;
-    display: block;
-}
-
-div{
-    background-color: white;
-    width: 30%;
-    margin: 0 auto;
-    border-radius: 20px;
-    display: inline-block;
-    position: relative;
-}
-
-a{
+    list-style: none;
     text-decoration: none;
 }
 
-ul{
-    position: relative;
+body{
+    background-color: var(--verm_princ);
+}
+
+div{
     display: block;
+}
+
+nav, figure{
+    position: relative;
+    padding: 2%;
+    display: inline-grid;
     margin: 0 auto;
-    list-style: none;
+    height: 10%;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: white;
+    
 }
 
 li{
-    float: left;
-    padding: 2%;
+    display: inline;
 }
 
-#image{
-    background-color: white;
+li::after{
+    content: ' | ';
+}
+
+figure{
+    background-color: var(--verde_fraco);
 }
 
 img{
+    position: relative;
     width: 100%;
-    display: block;
-    margin: 0 auto;
 }
