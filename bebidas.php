@@ -7,5 +7,6 @@
     <title>Bebidas</title>
 </head>
 <body>
+    <?php include 'menu.php';?>
 </body>
 </html>
