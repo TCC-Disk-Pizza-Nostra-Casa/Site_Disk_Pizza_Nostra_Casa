@@ -9,16 +9,16 @@
 
 </head>
 <body>
-    <div>
-        <nav>
+    <div id="navContainer">
+        <nav id="nav">
             <ul>
-                <li><a href="index.html">Pizzas</a></li>
-                <li><a href="#">Bebidas</a></li>
-                <li><a href="#">Contato</a></li>
+                <li class="after"><a href="index.html">Pizzas</a></li>
+                <li class="after"><a href="#">Bebidas</a></li>
+                <li class="after"><a href="#">Contato</a></li>
                 <li><a href="#">Onde estamos</a></li>
             </ul>
         </nav>
-        
+
         <figure>
             <img src="img/logo.png">
         </figure>
