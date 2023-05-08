@@ -23,24 +23,37 @@ body{
     position:relative;
     top:10px;
 }
+#foto_pizzaria{
+    margin-bottom:20%;
+}
+#logo{
+    position: absolute; 
+    left: 730px; 
+    top: 350px;
+}
 
 .tit_cardapio{
     background-color: #43A643;
     font-size:40px;
     display:inline-block;
-
 }
-.tit_pizzas{
+.barra_verde{
     background-color: #43A643;
     font-size:40px;
     display:inline-block;
     width:100%;
 }
-.tit_pizzas .titulo{
-    margin:25px;
+.barra_verde .tipo{
+    margin-left: 1%;
+    margin-right: 7%;   
     color:yellow;
 }
-.tit_pizzas .preco{
+.barra_verde .preco_grande{
+    font-size:30px;
+    margin-right:2%;
+}
+.barra_verde .preco_broto{
+    margin-left:2%;
     font-size:30px;
 }
 
@@ -53,13 +66,14 @@ body{
     box-sizing:border-box;
 }
 
-.container_pizza1{
+.img_pizza{
     background-color:gray;
     width: 100%;
     position: relative;
     display: block;
 }
-.container_pizza2{
+
+.desc_pizza{
     display: block;
     position: relative;
     background-color:white;
@@ -67,5 +81,11 @@ body{
     height:200px;
     padding:5px;
     box-sizing:border-box;
-    
+   
+}
+.nome_pizza{
+    font-size:25px;
+}
+.ingredientes{
+
 }
