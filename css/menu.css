@@ -18,7 +18,7 @@
     width: 100%;
 }
 
-#nav, figure{
+nav, figure{
     border-radius: 10px;
     margin: .5%;
 }
@@ -45,7 +45,7 @@ li{
     content: ' | ';
 }
 
-figure{
+.figure_logo{
     width: 30%;
     background-color: white;
     display: flex;
@@ -58,8 +58,41 @@ img{
     padding: 1%;
 }
 
+button{
+    width: 10%;
+    background-color: unset;
+}
+
+.figure_icon{
+    width: 100%;
+    display: none;
+}
+
+.response_menu{
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.response_nav{
+    background-color: white;
+    width: 70%;
+}
+
 @media screen and (max-width: 960px){
     #nav{
         display: none;
+    }
+
+    .figure_icon{
+        display: block;
+    }
+
+    #response_menu{
+        display: flex;
     }
 }
