@@ -68,19 +68,46 @@ button{
     display: none;
 }
 
-.response_menu{
-    width: 80%;
-    height: 100%;
-    position: absolute;
-    display: none;
-    justify-content: center;
-    align-items: center;
+.response_nav{
     background-color: black;
+    position: absolute;
+    width: 90%;
+    opacity: 95%;
+    height: 60%;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    display: none;
 }
 
-.response_nav{
-    background-color: white;
-    width: 70%;
+.response_nav ul{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    top: 8%;
+}
+
+.response_nav li{
+    display: block;
+}
+
+.response_nav a{
+    font-size: 10vw;
+    color: white;
+    text-align: center;
+}
+
+.btnClose{
+    color: white;
+    display: block;
+    font-size: 10vw;
+    position: absolute;
+    left: 85%;
 }
 
 @media screen and (max-width: 960px){
@@ -92,7 +119,7 @@ button{
         display: block;
     }
 
-    #response_menu{
-        display: flex;
+    .response_nav{
+        display: block;
     }
 }
