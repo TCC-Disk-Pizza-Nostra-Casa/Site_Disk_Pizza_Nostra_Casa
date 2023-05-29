@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.content{
+    background-color: lightgrey;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+
+.item{
+    width: 10%;
+    background-color: white;
+    padding: 5%;
+    margin: 5%;
+    border-radius: 1em;
+    text-align: center;
+}

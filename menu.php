@@ -21,10 +21,10 @@
     <div id="navContainer">
         <nav id="nav">
             <ul>
-                <li class="after"><a href="index.html">Pizzas</a></li>
-                <li class="after"><a href="#">Bebidas</a></li>
-                <li class="after"><a href="#">Contato</a></li>
-                <li><a href="#">Onde estamos</a></li>
+                <li class="after"><a href="/">Pizzas</a></li>
+                <li class="after"><a href="/bebidas">Bebidas</a></li>
+                <li class="after"><a href="/contato">Contato</a></li>
+                <li><a href="/ondeestamos">Onde estamos</a></li>
             </ul>
         </nav>
 
@@ -40,13 +40,13 @@
     </div>
 
     <nav id="response_nav" class="response_nav">
-            <button class="btnClose" onclick="closeMenu()">X</button>
-            <ul>
-                <li><a href="home.html">Pizzas</a></li>
-                <li><a href="#">Bebidas</a></li>
-                <li><a href="#">Contato</a></li>
-                <li><a href="#">Onde estamos</a></li>
-            </ul>
-        </nav>
+        <button class="btnClose" onclick="closeMenu()">X</button>
+        <ul>
+            <li><a href="/">Pizzas</a></li>
+            <li><a href="/bebidas">Bebidas</a></li>
+            <li><a href="/contato">Contato</a></li>
+            <li><a href="/ondeestamos">Onde estamos</a></li>
+        </ul>
+    </nav>
 </body>
 </html>

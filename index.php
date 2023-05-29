@@ -7,10 +7,6 @@ switch($uri){
         include 'home.html';
     break;
 
-    case "/testeJulyo":
-        include 'menu.php';
-    break;
-
     case "/bebidas":
         include 'bebidas.php';
     break;

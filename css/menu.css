@@ -15,11 +15,13 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: var(--verm_princ);
-    width: 100%;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 10px;
 }
 
 nav, figure{
-    border-radius: 10px;
+    border-radius: 20px;
     margin: .5%;
 }
 
@@ -71,8 +73,8 @@ button{
 .response_nav{
     background-color: black;
     position: absolute;
-    width: 90%;
-    opacity: 95%;
+    width: 100%;
+    opacity: 85%;
     height: 60%;
     top: 0;
     right: 0;
@@ -119,7 +121,7 @@ button{
         display: block;
     }
 
-    .response_nav{
-        display: block;
+    .figure_logo{
+        width: 50%;
     }
 }
