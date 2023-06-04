@@ -34,8 +34,8 @@
             </figure>
         </button>
 
-        <figure class="figure_logo">
-            <img id="logo" src="img/logo.png">
+        <figure class="figure_logo_menu">
+            <img id="logo_menu" src="img/logo.png">
         </figure> 
     </div>
 

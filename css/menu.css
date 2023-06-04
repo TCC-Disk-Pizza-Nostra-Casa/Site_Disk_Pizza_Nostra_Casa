@@ -47,7 +47,7 @@ li{
     content: ' | ';
 }
 
-.figure_logo{
+.figure_logo_menu{
     width: 30%;
     background-color: white;
     display: flex;
@@ -121,7 +121,7 @@ button{
         display: block;
     }
 
-    .figure_logo{
+    .figure_logo_menu{
         width: 50%;
     }
 }
