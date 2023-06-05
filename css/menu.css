@@ -1,15 +1,5 @@
 @import "config.css";
 
-*{
-    font-family: 'Roboto';
-    color: black;
-    font-size: 2vw;
-    border: 0;
-    margin: 0;
-    list-style: none;
-    text-decoration: none;
-}
-
 #navContainer{
     display: flex;
     justify-content: space-evenly;
@@ -81,6 +71,7 @@ button{
     left: 0;
     margin: 0 auto;
     display: none;
+    z-index: 2;
 }
 
 .response_nav ul{

@@ -13,11 +13,17 @@
     <?php include 'menu.php';?>
     
     <div class="content" id="content">
-        <?php foreach ($bebidas as $item): ?>
+        <?php $i = 0; foreach ($bebidas as $item): ?>
             <div class="item">
-                <?php foreach ($item as $outro): ?>
-                    <p><?php echo $outro ?></h1>
-                <?php endforeach; ?>
+                <div class="img">
+                    <img src=" <?php echo $fotos[$i]; $i ++; ?> ">
+                </div>
+
+                <div class="desc">
+                    <?php foreach ($item as $outro): ?>
+                        <p><?php echo $outro; ?></h1>
+                    <?php endforeach; ?>
+                </div>
             </div>
         <?php endforeach; ?>
     </div>
