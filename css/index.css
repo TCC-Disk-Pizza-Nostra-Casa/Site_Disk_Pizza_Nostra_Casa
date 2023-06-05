@@ -80,6 +80,7 @@ body{
     width: 100%;
     padding:5px;
     box-sizing:border-box;
+    margin-bottom: 10px;
 }
 .nome_pizza{
     font-size:25px;

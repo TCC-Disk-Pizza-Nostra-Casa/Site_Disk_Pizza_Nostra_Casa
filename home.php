@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <?php include 'menu.php' ?>
+    
 
     <!--Imagem da pizzaria-->
     <img id="foto_pizzaria" src="img/foto_pizzaria1.png" height="400px" width="100%" alt="imagem da pizzaria">
@@ -34,7 +34,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Escondidinho</span><br><br>
+            <span class="nome_pizza">Escondidinho</span>
             <span class="ingredientes">Carne Seca, requeijão cremoso, mussarela, batata palha.</span>
         </div>
 
@@ -48,7 +48,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Nostra Itália</span><br><br>
+            <span class="nome_pizza">Nostra Itália</span>
             <span class="ingredientes">Mussarela, filé mignon, champgnon e requeijão cremoso.</span>
         </div>
 
@@ -62,7 +62,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Parmegiana</span><br><br>
+            <span class="nome_pizza">Parmegiana</span>
             <span class="ingredientes">Mussarela, filé mignon, molho de tomate e parmesão.</span>
         </div>
 
@@ -75,7 +75,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Strogonoff de Frango</span><br><br>
+            <span class="nome_pizza">Strogonoff de Frango</span>
             <span class="ingredientes">Mussarela, strogonoff de frango, requeijão cremoso e batata palha.</span>
         </div>
 
@@ -88,7 +88,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Strogonoff de Carne</span><br><br>
+            <span class="nome_pizza">Strogonoff de Carne</span>
             <span class="ingredientes">Mussarela, strogonoff de carne, requeijão cremoso e batata palha.</span>
         </div>
 
@@ -101,7 +101,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Picanha</span><br><br>
+            <span class="nome_pizza">Picanha</span>
             <span class="ingredientes">Picanha fatiada, requeijão cremoso, mussarela e bacon.</span>
         </div>
 
@@ -122,7 +122,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Alho e Óleo</span><br><br>
+            <span class="nome_pizza">Alho e Óleo</span>
             <span class="ingredientes">Mussarela, tomate e alho.</span>
         </div>
 
@@ -136,7 +136,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Bacon</span><br><br>
+            <span class="nome_pizza">Bacon</span>
             <span class="ingredientes">Mussarela, tomate e bacon.</span>
         </div>
 
@@ -150,7 +150,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Baiana</span><br>
+            <span class="nome_pizza">Baiana</span>
             <span class="ingredientes">Mussarela, calabresa moída temperada c/ cheiro verde e pimenta.</span>
         </div>
 
@@ -164,7 +164,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Bauru</span><br><br>
+            <span class="nome_pizza">Bauru</span>
             <span class="ingredientes">Mussarela, presunto e tomate.</span>
         </div>
 
@@ -178,7 +178,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Calabresa</span><br><br>
+            <span class="nome_pizza">Calabresa</span>
             <span class="ingredientes">Mussarela, calabresa e cebola.</span>
         </div>
 
@@ -192,7 +192,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Canadense</span><br><br>
+            <span class="nome_pizza">Canadense</span>
             <span class="ingredientes">Mussarela, lombinho defumado e cebola.</span>
         </div>
 
@@ -206,7 +206,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Catupiry</span><br>
+            <span class="nome_pizza">Catupiry</span>
             <span class="ingredientes">Mussarela, requeijão cremoso e rodelas de tomate.</span>
         </div>
 
@@ -220,7 +220,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Corn Bacon</span><br><br>
+            <span class="nome_pizza">Corn Bacon</span>
             <span class="ingredientes">Mussarela, milho verde e bacon.</span>
         </div>
 
@@ -234,7 +234,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Escarola</span><br><br>
+            <span class="nome_pizza">Escarola</span>
             <span class="ingredientes">Mussarela, escarola refogada e tomate.</span>
         </div>
 
@@ -248,7 +248,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Frango</span><br><br>
+            <span class="nome_pizza">Frango</span>
             <span class="ingredientes">Mussarela, frango desfiado temperado e cebola.</span>
         </div>
 
@@ -262,7 +262,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Lombo</span><br><br>
+            <span class="nome_pizza">Lombo</span>
             <span class="ingredientes">Mussarela, lombo e catupiry.</span>
         </div>
 
@@ -276,7 +276,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Marguerita</span><br><br>
+            <span class="nome_pizza">Marguerita</span>
             <span class="ingredientes">Mussarela, tomate, mangericão e parmesão.</span>
         </div>
 
@@ -290,7 +290,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Milho</span><br><br>
+            <span class="nome_pizza">Milho</span>
             <span class="ingredientes">Mussarela, tomate e milho.</span>
         </div>
 
@@ -303,7 +303,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Mineira</span><br><br>
+            <span class="nome_pizza">Mineira</span>
             <span class="ingredientes">Mussarela, provolone, cheiro verde, alho, tomate e cebola.</span>
         </div>
 
@@ -317,7 +317,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Mussarela</span><br><br>
+            <span class="nome_pizza">Mussarela</span>
             <span class="ingredientes">Mussarela, rodelas de tomate.</span>
         </div>
 
@@ -331,7 +331,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Toscana</span><br><br>
+            <span class="nome_pizza">Toscana</span>
             <span class="ingredientes">Mussarela, calabresa ralada e cebola.</span>
         </div>
 
@@ -345,7 +345,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Paulista 2</span><br><br>
+            <span class="nome_pizza">Paulista 2</span>
             <span class="ingredientes">Mussarela, presunto, ovos, cebola e bacon.</span>
         </div>
 
@@ -359,7 +359,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Palha</span><br><br>
+            <span class="nome_pizza">Palha</span>
             <span class="ingredientes">Mussarela, requeijão cremoso e batata palha.</span>
         </div>
 
@@ -373,7 +373,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Atum</span><br><br>
+            <span class="nome_pizza">Atum</span>
             <span class="ingredientes">Mussarela, atum e cebola.</span>
         </div>
 
@@ -387,7 +387,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Brasileira</span><br><br>
+            <span class="nome_pizza">Brasileira</span>
             <span class="ingredientes">Mussarela, atum e ovos.</span>
         </div>
 
@@ -401,7 +401,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">3 Queijos</span><br><br>
+            <span class="nome_pizza">3 Queijos</span>
             <span class="ingredientes">Mussarela, provolone e catupiry.</span>
         </div>
 
@@ -419,11 +419,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de 4 queijos">
+            <img src="img/pizzas/Especiais/4queijos.png" width="100%" alt="pizza de 4 queijos">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">4 Queijos</span><br><br>
+            <span class="nome_pizza">4 Queijos</span>
             <span class="ingredientes">Mussarela, gorgonzola, requeijão cremoso e provolone.</span>
         </div>
 
@@ -433,11 +433,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de 5 queijos">
+            <img src="img/pizzas/Especiais/5queijos.png" width="100%" alt="pizza de 5 queijos">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">5 Queijos</span><br><br>
+            <span class="nome_pizza">5 Queijos</span>
             <span class="ingredientes">Mussarela, gorgonzola, parmesão, requeijão cremoso e provolone.</span>
         </div>
 
@@ -447,11 +447,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza amazonas">
+            <img src="img/pizzas/Especiais/amazonas.png" width="100%" alt="pizza amazonas">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Amazonas</span><br><br>
+            <span class="nome_pizza">Amazonas</span>
             <span class="ingredientes">Mussarela, brócolis, palmito, bacon, alho e requeijão cremoso.</span>
         </div>
 
@@ -465,7 +465,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Aliche</span><br><br>
+            <span class="nome_pizza">Aliche</span>
             <span class="ingredientes">Mussarela, aliche importado, parmesão ralado, tomate e cebola.</span>
         </div>
 
@@ -475,11 +475,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza à moda da casa">
+            <img src="img/pizzas/Especiais/moda_da_casa.png" width="100%" alt="pizza à moda da casa">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">À moda da casa</span><br><br>
+            <span class="nome_pizza">À moda da casa</span>
             <span class="ingredientes">Mussarela, presunto, ovos, palmito, requeijão cremoso, bacon e milho verde.</span>
         </div>
 
@@ -489,11 +489,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de carijó">
+            <img src="img/pizzas/especiais/carijo.png" width="100%" alt="pizza de carijó">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Carijó</span><br><br>
+            <span class="nome_pizza">Carijó</span>
             <span class="ingredientes">Frango desfiado, mussarela, milho, bacon, tomate e orégano.</span>
         </div>
 
@@ -507,7 +507,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Catufrango</span><br><br>
+            <span class="nome_pizza">Catufrango</span>
             <span class="ingredientes">Mussarela, frango desfiado, tomate e requeijão cremoso.</span>
         </div>
 
@@ -521,7 +521,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Cheddar</span><br><br>
+            <span class="nome_pizza">Cheddar</span>
             <span class="ingredientes">Frango desfiado, cheddar, milho, mussarela e tomate.</span>
         </div>
 
@@ -531,11 +531,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza italiana">
+            <img src="img/pizzas/especiais/italiana.png" width="100%" alt="pizza italiana">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Italiana</span><br><br>
+            <span class="nome_pizza">Italiana</span>
             <span class="ingredientes">Mussarela, salame, requeijão cremoso, bacon e tomate.</span>
         </div>
 
@@ -545,11 +545,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza jahu">
+            <img src="img/pizzas/especiais/jahu.png" width="100%" alt="pizza jahu">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Jahu</span><br><br>
+            <span class="nome_pizza">Jahu</span>
             <span class="ingredientes">Mussarela, presunto, ervilha, milho, bacon, requeijão cremoso.</span>
         </div>
 
@@ -563,7 +563,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Lazanha</span><br><br>
+            <span class="nome_pizza">Lazanha</span>
             <span class="ingredientes">Mussarela, presunto, molho de tomate e parmesão.</span>
         </div>
 
@@ -577,7 +577,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Light</span><br><br>
+            <span class="nome_pizza">Light</span>
             <span class="ingredientes">Mussarela, peito de peru, tomate seco e rúcula.</span>
         </div>
 
@@ -587,11 +587,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza maria bonita">
+            <img src="img/pizzas/especiais/maria_bonita.png" width="100%" alt="pizza maria bonita">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Maria bonita</span><br><br>
+            <span class="nome_pizza">Maria bonita</span>
             <span class="ingredientes">Mussarela, carne seca desfiada e cebola.</span>
         </div>
 
@@ -601,11 +601,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza nostra casa">
+            <img src="img/pizzas/especiais/nostra_casa.png" width="100%" alt="pizza nostra casa">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Nostra casa</span><br><br>
+            <span class="nome_pizza">Nostra casa</span>
             <span class="ingredientes">Mussarela, Frango desfiado, chapignon, molho e requeijão cremoso.</span>
         </div>
 
@@ -615,11 +615,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/Portuguesa.png" width="100%" alt="pizza portuguesa">
+            <img src="img/pizzas/especiais/portuguesa.png" width="100%" alt="pizza portuguesa">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Portuguesa</span><br><br>
+            <span class="nome_pizza">Portuguesa</span>
             <span class="ingredientes">Mussarela, presunto, palmito, ervilhas, ovos e cebola.</span>
         </div>
 
@@ -633,7 +633,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Provolone</span><br><br>
+            <span class="nome_pizza">Provolone</span>
             <span class="ingredientes">Requeijão cremoso, salame e provolone.</span>
         </div>
 
@@ -647,7 +647,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Rainha</span><br><br>
+            <span class="nome_pizza">Rainha</span>
             <span class="ingredientes">Mussarela, frango desfiado, palmito e milho verde.</span>
         </div>
 
@@ -661,7 +661,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Siciliana</span><br><br>
+            <span class="nome_pizza">Siciliana</span>
             <span class="ingredientes">Mussarela, champignon, molho e bacon.</span>
         </div>
 
@@ -675,7 +675,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Tomate seco</span><br><br>
+            <span class="nome_pizza">Tomate seco</span>
             <span class="ingredientes">Mussarela, tomate seco e rúcula.</span>
         </div>
 
@@ -685,11 +685,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/x-burguer.png" width="100%" alt="pizza de x-burguer">
+            <img src="img/pizzas/especiais/x_burguer.png" width="100%" alt="pizza de x-burguer">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">X-Burguer</span><br><br>
+            <span class="nome_pizza">X-Burguer</span>
             <span class="ingredientes">Mussarela, hamburguer, requeijão cremoso, bacon, batata palha e tomate.</span>
         </div>
 
@@ -703,7 +703,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Brócolis</span><br><br>
+            <span class="nome_pizza">Brócolis</span>
             <span class="ingredientes">Mussarela, brócolis ao alho e óleo, cebola e bacon.</span>
         </div>
 
@@ -717,7 +717,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Champignon</span><br><br>
+            <span class="nome_pizza">Champignon</span>
             <span class="ingredientes">Mussarela, champignon e molho.</span>
         </div>
 
@@ -731,7 +731,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Caipira</span><br><br>
+            <span class="nome_pizza">Caipira</span>
             <span class="ingredientes">Mussarela, frango desfiado temperado e milho.</span>
         </div>
 
@@ -745,7 +745,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Escarola 2</span><br><br>
+            <span class="nome_pizza">Escarola 2</span>
             <span class="ingredientes">Mussarela, escarola refogada, alichee e bacon.</span>
         </div>
 
@@ -759,7 +759,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Palmito</span><br><br>
+            <span class="nome_pizza">Palmito</span>
             <span class="ingredientes">Mussarela, palmito e rodelas de tomate.</span>
         </div>
 
@@ -773,7 +773,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Paulista</span><br><br>
+            <span class="nome_pizza">Paulista</span>
             <span class="ingredientes">Mussarela, presunto, champignon e bacon.</span>
         </div>
 
@@ -787,7 +787,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Vegetariana</span><br><br>
+            <span class="nome_pizza">Vegetariana</span>
             <span class="ingredientes">Mussarela, palmito, milho verde, rodelas de tomate e escarola.</span>
         </div>
 
@@ -805,11 +805,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de brigadeiro">
+            <img src="img/pizzas/doces/brigadeiro.png" width="100%" alt="pizza de brigadeiro">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Brigadeiro</span><br><br>
+            <span class="nome_pizza">Brigadeiro</span>
             <span class="ingredientes">Doce de leite, chocolate granulado e cereja.</span>
         </div>
 
@@ -819,11 +819,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de macaca">
+            <img src="img/pizzas/doces/macaca.png" width="100%" alt="pizza de macaca">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Macaca</span><br><br>
+            <span class="nome_pizza">Macaca</span>
             <span class="ingredientes">Mussarela, banana fatiada e canela em pó.</span>
         </div>
 
@@ -833,11 +833,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza romeu e julieta">
+            <img src="img/pizzas/doces/romeu_e_julieta.png" width="100%" alt="pizza romeu e julieta">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Romeu e Julieta</span><br><br>
+            <span class="nome_pizza">Romeu e Julieta</span>
             <span class="ingredientes">Mussarela e goiabada.</span>
         </div>
 
@@ -851,7 +851,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Prestígio</span><br><br>
+            <span class="nome_pizza">Prestígio</span>
             <span class="ingredientes">Chocolate, côco ralado e cereja.</span>
         </div>
 
@@ -861,11 +861,11 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de nutella">
+            <img src="img/pizzas/doces/nutela.png" width="100%" alt="pizza de nutella">
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Nutella</span><br><br>
+            <span class="nome_pizza">Nutella</span>
             <span class="ingredientes">Pasta de avelã, banana, açúcar e cereja.</span>
         </div>
 
@@ -879,7 +879,7 @@
         </div>
 
         <div class="desc_pizza">
-            <span class="nome_pizza">Sonho meu</span><br><br>
+            <span class="nome_pizza">Sonho meu</span>
             <span class="ingredientes">Chocolate, sonho de valsa e confete.</span>
         </div>
 
