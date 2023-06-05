@@ -8,13 +8,8 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-
-    <div class="navegacao">
-        <div class="barra_menor">INICIO / ... / ....</div>
-    </div>
-    <div class="navegacao_pizzas">
-
-    </div>
+    
+    <?php include 'menu.php' ?>
 
     <!--Imagem da pizzaria-->
     <img id="foto_pizzaria" src="img/foto_pizzaria1.png" height="400px" width="100%" alt="imagem da pizzaria">
@@ -35,7 +30,7 @@
     <div class="container_total">
 
         <div class="img_pizza">
-            <img src="img/pizzas/.png" width="100%" alt="pizza de escondidinho">
+            <img src="img/pizzas/ola.png" width="100%" alt="pizza de escondidinho">
         </div>
 
         <div class="desc_pizza">

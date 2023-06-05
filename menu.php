@@ -30,7 +30,7 @@
 
         <button onclick="openMenu()">
             <figure class="figure_icon">
-                <img src="/img/menu_icon.svg">
+                <img id="img_icon" src="/img/menu_icon.svg">
             </figure>
         </button>
 
