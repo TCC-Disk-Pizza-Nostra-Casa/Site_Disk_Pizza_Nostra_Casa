@@ -9,6 +9,27 @@ div{
     margin: 30px auto;
 }
 
+#contato{
+    flex-wrap: wrap;
+}
+
+#contato > a{
+    background-color: var(--verm_princ);
+    min-height: 150px;
+    min-width: 145px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+}
+
+#phone_icon{
+    background-color: white;
+    border-radius: 35%;
+    padding: 5%;
+}
+
 iframe{
     width: 100%;
 }

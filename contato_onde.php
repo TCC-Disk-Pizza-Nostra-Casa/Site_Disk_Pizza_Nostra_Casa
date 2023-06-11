@@ -11,7 +11,7 @@
     
     <div id="contato">
         <a href="https://www.facebook.com/people/Disk-Pizza-Nostra-Casa/100063807252983/"><img src="img/contato/facebook_icon.svg"></a>
-        <a href="tel:1430321313"><img src="img/contato/phone_icon.svg"></a>
+        <a href="tel:1430321313"><img id="phone_icon" src="img/contato/phone_icon.svg"></a>
         <a href="https://api.whatsapp.com/send?phone=5514998303428&text=Link%3A%0Ahttps%3A%2F%2Ffb.me%2F9gYT8JQ1D%0A%0AI%20saw%20this%20on%20Facebook...&source_url=https%3A%2F%2Ffb.me%2F9gYT8JQ1D&icebreaker=I%20saw%20this%20on%20Facebook...&app=facebook&entry_point=post_cta&jid=5514998303428%40s.whatsapp.net&show_keyboard=1&show_ad_attribution=1&context=ARBRjsI_NbGKAlauG15P2PW2OCH8I6Xl4DQG9inHzsnnqgShJawulGDGynsFVoLLjzsBtNgQV3PYRJTXksSgqG_OnmuzDa994DmtGVAA84CpPM_gvvfgMIC3pNSNqnWR5q7wiw8zCO5xS3XPSqy_6zIlpDn62CAZnIjfi7tBoLKv1rJUD26TllaanNgWxjv-FtJf1vLxK_vu9cr1oU_OHHWYIzr-C2FLGK2Sk_sqVdEoBR82nJrVooDvgLGFqBXub5Oi"><img src="img/contato/whatsapp_icon.svg"></a>
     </div>
 

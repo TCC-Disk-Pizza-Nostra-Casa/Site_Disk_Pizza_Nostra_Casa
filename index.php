@@ -15,6 +15,10 @@ switch($uri){
         include 'contato_onde.php';
     break;
 
+    case "/onde":
+        header("Location: /contato#onde");
+    break;
+
     default:
         echo 'erro 404';
     break;
