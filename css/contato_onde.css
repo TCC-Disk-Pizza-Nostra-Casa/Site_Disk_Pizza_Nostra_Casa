@@ -1,0 +1,14 @@
+@import "config.css";
+
+div{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 70%;
+    margin: 30px auto;
+}
+
+iframe{
+    width: 100%;
+}

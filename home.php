@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-    
-    
 
     <!--Imagem da pizzaria-->
     <img id="foto_pizzaria" src="img/foto_pizzaria1.png" height="400px" width="100%" alt="imagem da pizzaria">

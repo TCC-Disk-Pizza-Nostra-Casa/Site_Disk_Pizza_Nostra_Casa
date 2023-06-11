@@ -24,7 +24,7 @@
                 <li class="after"><a href="/">Pizzas</a></li>
                 <li class="after"><a href="/bebidas">Bebidas</a></li>
                 <li class="after"><a href="/contato">Contato</a></li>
-                <li><a href="/ondeestamos">Onde estamos</a></li>
+                <li><a href="/contato#onde">Onde estamos</a></li>
             </ul>
         </nav>
 
@@ -45,7 +45,7 @@
             <li><a href="/">Pizzas</a></li>
             <li><a href="/bebidas">Bebidas</a></li>
             <li><a href="/contato">Contato</a></li>
-            <li><a href="/ondeestamos">Onde estamos</a></li>
+            <li><a href="/contato#onde">Onde estamos</a></li>
         </ul>
     </nav>
 </body>

@@ -11,6 +11,10 @@ switch($uri){
         include 'bebidas.php';
     break;
 
+    case "/contato":
+        include 'contato_onde.php';
+    break;
+
     default:
         echo 'erro 404';
     break;
