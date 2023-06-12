@@ -30,6 +30,13 @@ div{
     padding: 5%;
 }
 
+#onde{
+    background-color: var(--verm_princ);
+    border-radius: 10px;
+    padding: 2%;
+    width: 65%;
+}
+
 iframe{
-    width: 100%;
+    width: 95%;
 }
